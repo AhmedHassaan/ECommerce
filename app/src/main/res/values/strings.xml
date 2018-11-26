@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ECommerce</string>
+    <string name="login_text">Log In</string>
+    <string name="signup_text">Sign Up</string>
+    <string name="username_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="signup_activity">Signup</string>
+    <string name="login_activity">Login</string>
+    <string name="main_activity">Home</string>
+</resources>
